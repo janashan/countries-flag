@@ -18,10 +18,11 @@ body{
 
 .container{
     background-color: white;
-    max-width: 15rem;
+    max-width: 30rem;
     border-radius: 0.5rem;
     overflow: hidden;
     box-shadow: 3px 3px 10px 0px rgba(50, 50, 50, 0.1);
+  
 }
 
 .info{
